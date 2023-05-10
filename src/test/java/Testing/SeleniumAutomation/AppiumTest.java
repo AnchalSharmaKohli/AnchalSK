@@ -8,6 +8,7 @@ public class AppiumTest {
 	public void webappdriver()
 	{
 		System.out.println("webappdriver");
+		System.out.println("newappdriver");
 	}
 	
 
