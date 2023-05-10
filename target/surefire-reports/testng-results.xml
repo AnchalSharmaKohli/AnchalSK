@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-08T15:05:19 BST" name="Suite" finished-at="2023-05-08T15:05:19 BST" duration-ms="91">
+    <groups>
+    </groups>
+    <test started-at="2023-05-08T15:05:19 BST" name="Test" finished-at="2023-05-08T15:05:19 BST" duration-ms="91">
+      <class name="Testing.SeleniumAutomation.AppiumTest">
+        <test-method signature="webappdriver()[pri:0, instance:Testing.SeleniumAutomation.AppiumTest@5e82df6a]" started-at="2023-05-08T15:05:19 BST" name="webappdriver" finished-at="2023-05-08T15:05:19 BST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webappdriver -->
+      </class> <!-- Testing.SeleniumAutomation.AppiumTest -->
+      <class name="Testing.SeleniumAutomation.SeleniumTest">
+        <test-method signature="webdriver()[pri:0, instance:Testing.SeleniumAutomation.SeleniumTest@48ae9b55]" started-at="2023-05-08T15:05:19 BST" name="webdriver" finished-at="2023-05-08T15:05:19 BST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webdriver -->
+        <test-method signature="webseldriver()[pri:0, instance:Testing.SeleniumAutomation.SeleniumTest@48ae9b55]" started-at="2023-05-08T15:05:19 BST" name="webseldriver" finished-at="2023-05-08T15:05:19 BST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webseldriver -->
+      </class> <!-- Testing.SeleniumAutomation.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
