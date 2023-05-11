@@ -10,6 +10,12 @@ public class AppiumTest {
 		System.out.println("webappdriver");
 		System.out.println("newappdriver");
 	}
+	@Test
+	public void webdevlopdriver()
+	{
+		System.out.println("webdevlopdriver");
+		
+	}
 	
 
 }
